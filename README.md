@@ -2,7 +2,8 @@
 
 This project focuses on building a web application with CRUD (Create, Read, Update, Delete) functionalities using Flask and Streamlit. Provides an efficient interface for managing data, enhancing user interactions with a structured database.
 
-# Domain: 📊 Data Management
+# Domain: 
+Data Management
 
 # Skills Takeaway     
 
